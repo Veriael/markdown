@@ -1,19 +1,14 @@
 {
     "name": "veriael/markdown",
-    "description": "More complete flarum-markdown fork. | Allow posts to be formatted with Markdown.",
+    "description": "More complete flarum-markdown fork. Includes BBCode shortcuts in addition to Markdown ones.",
     "type": "flarum-extension",
     "keywords": ["formatting"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Toby Zerner",
-            "email": "toby.zerner@gmail.com"
+            "name": "Veriael (forked Toby Zerner's flarum-markdown)",
         }
     ],
-    "support": {
-        "issues": "https://github.com/flarum/core/issues",
-        "source": "https://github.com/flarum/markdown"
-    },
     "require": {
         "flarum/core": "^0.1.0-beta.10"
     },
@@ -26,7 +21,7 @@
                 "backgroundSize": "100%",
                 "backgroundRepeat": "no-repeat",
                 "backgroundPosition": "center",
-                "color": "#fcdb03"
+                "color": "#fff"
             }
         }
     }
