@@ -6,7 +6,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Veriael (forked Toby Zerner's flarum-markdown)",
+            "name": "Veriael (forked Toby Zerner's flarum-markdown)"
         }
     ],
     "require": {
