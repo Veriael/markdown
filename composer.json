@@ -1,6 +1,6 @@
 {
     "name": "veriael/markdown",
-    "description": "More complete flarum-markdown fork. Includes BBCode shortcuts in addition to Markdown ones.",
+    "description": "More complete flarum-markdown fork. Includes missing BBCode shortcuts in addition to Markdown ones.",
     "type": "flarum-extension",
     "keywords": ["formatting"],
     "license": "MIT",
